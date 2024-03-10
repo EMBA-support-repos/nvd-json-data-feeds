@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-08T23:00:41.812668+00:00
+2024-03-09T19:00:37.494041+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-08T21:19:43.127000+00:00
+2024-03-09T17:15:07.153000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,37 +23,27 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-03-08T01:00:20.252904+00:00
+2024-03-09T01:00:20.293605+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-240913
+240938
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `0`
 
-* [CVE-2023-32264](CVE-2023/CVE-2023-322xx/CVE-2023-32264.json) (`2024-03-08T21:15:06.970`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `11`
+Recently modified CVEs: `2`
 
-* [CVE-2022-43855](CVE-2022/CVE-2022-438xx/CVE-2022-43855.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2023-32969](CVE-2023/CVE-2023-329xx/CVE-2023-32969.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2023-34980](CVE-2023/CVE-2023-349xx/CVE-2023-34980.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2023-47221](CVE-2023/CVE-2023-472xx/CVE-2023-47221.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-21899](CVE-2024/CVE-2024-218xx/CVE-2024-21899.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-21900](CVE-2024/CVE-2024-219xx/CVE-2024-21900.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-21901](CVE-2024/CVE-2024-219xx/CVE-2024-21901.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-2319](CVE-2024/CVE-2024-23xx/CVE-2024-2319.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-2338](CVE-2024/CVE-2024-23xx/CVE-2024-2338.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-2339](CVE-2024/CVE-2024-23xx/CVE-2024-2339.json) (`2024-03-08T21:19:43.127`)
-* [CVE-2024-26472](CVE-2024/CVE-2024-264xx/CVE-2024-26472.json) (`2024-03-08T21:15:07.193`)
+* [CVE-2024-2274](CVE-2024/CVE-2024-22xx/CVE-2024-2274.json) (`2024-03-09T17:15:06.973`)
+* [CVE-2024-2275](CVE-2024/CVE-2024-22xx/CVE-2024-2275.json) (`2024-03-09T17:15:07.153`)
 
 
 ## Download and Usage
