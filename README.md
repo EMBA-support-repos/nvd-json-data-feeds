@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-24T13:00:38.261158+00:00
+2024-03-25T23:00:38.868999+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-24T12:15:08.940000+00:00
+2024-03-25T22:37:19.847000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,26 +23,37 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-03-24T01:00:20.238624+00:00
+2024-03-25T01:00:20.248860+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-242506
+242628
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `11`
 
-* [CVE-2020-36825](CVE-2020/CVE-2020-368xx/CVE-2020-36825.json) (`2024-03-24T12:15:08.940`)
+* [CVE-2023-47430](CVE-2023/CVE-2023-474xx/CVE-2023-47430.json) (`2024-03-25T22:37:19.197`)
+* [CVE-2024-1973](CVE-2024/CVE-2024-19xx/CVE-2024-1973.json) (`2024-03-25T22:37:19.383`)
+* [CVE-2024-21914](CVE-2024/CVE-2024-219xx/CVE-2024-21914.json) (`2024-03-25T22:37:19.627`)
+* [CVE-2024-2425](CVE-2024/CVE-2024-24xx/CVE-2024-2425.json) (`2024-03-25T21:15:47.273`)
+* [CVE-2024-2426](CVE-2024/CVE-2024-24xx/CVE-2024-2426.json) (`2024-03-25T21:15:47.480`)
+* [CVE-2024-2427](CVE-2024/CVE-2024-24xx/CVE-2024-2427.json) (`2024-03-25T21:15:47.660`)
+* [CVE-2024-2873](CVE-2024/CVE-2024-28xx/CVE-2024-2873.json) (`2024-03-25T22:37:19.847`)
+* [CVE-2024-29041](CVE-2024/CVE-2024-290xx/CVE-2024-29041.json) (`2024-03-25T21:15:46.847`)
+* [CVE-2024-29179](CVE-2024/CVE-2024-291xx/CVE-2024-29179.json) (`2024-03-25T21:15:47.050`)
+* [CVE-2024-29440](CVE-2024/CVE-2024-294xx/CVE-2024-29440.json) (`2024-03-25T21:15:47.217`)
+* [CVE-2024-29442](CVE-2024/CVE-2024-294xx/CVE-2024-29442.json) (`2024-03-25T22:37:19.797`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `1`
 
+* [CVE-2024-0690](CVE-2024/CVE-2024-06xx/CVE-2024-0690.json) (`2024-03-25T22:37:19.257`)
 
 
 ## Download and Usage
