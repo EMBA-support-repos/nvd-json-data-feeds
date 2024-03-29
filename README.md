@@ -1,6 +1,10 @@
 # nvd-json-data-feeds
 
-Community reconstruction of the deprecated JSON NVD Data Feeds. 
+[![monitor-release](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_release.yml/badge.svg)](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_release.yml)
+[![monitor-sync](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_sync.yml/badge.svg)](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_sync.yml)
+[![validate-schema](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/validate_schema.yml/badge.svg)](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/validate_schema.yml)
+
+Community reconstruction of the deprecated JSON NVD Data Feeds.
 [Releases](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest) each day at 00:00 AM UTC.
 Repository synchronizes with the NVD every 2 hours.
 
@@ -9,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-25T23:00:38.868999+00:00
+2024-03-29T11:00:38.091830+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-25T22:37:19.847000+00:00
+2024-03-29T10:15:09.403000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,37 +27,30 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-03-25T01:00:20.248860+00:00
+2024-03-29T01:00:20.258376+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-242628
+243290
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `11`
+Recently added CVEs: `4`
 
-* [CVE-2023-47430](CVE-2023/CVE-2023-474xx/CVE-2023-47430.json) (`2024-03-25T22:37:19.197`)
-* [CVE-2024-1973](CVE-2024/CVE-2024-19xx/CVE-2024-1973.json) (`2024-03-25T22:37:19.383`)
-* [CVE-2024-21914](CVE-2024/CVE-2024-219xx/CVE-2024-21914.json) (`2024-03-25T22:37:19.627`)
-* [CVE-2024-2425](CVE-2024/CVE-2024-24xx/CVE-2024-2425.json) (`2024-03-25T21:15:47.273`)
-* [CVE-2024-2426](CVE-2024/CVE-2024-24xx/CVE-2024-2426.json) (`2024-03-25T21:15:47.480`)
-* [CVE-2024-2427](CVE-2024/CVE-2024-24xx/CVE-2024-2427.json) (`2024-03-25T21:15:47.660`)
-* [CVE-2024-2873](CVE-2024/CVE-2024-28xx/CVE-2024-2873.json) (`2024-03-25T22:37:19.847`)
-* [CVE-2024-29041](CVE-2024/CVE-2024-290xx/CVE-2024-29041.json) (`2024-03-25T21:15:46.847`)
-* [CVE-2024-29179](CVE-2024/CVE-2024-291xx/CVE-2024-29179.json) (`2024-03-25T21:15:47.050`)
-* [CVE-2024-29440](CVE-2024/CVE-2024-294xx/CVE-2024-29440.json) (`2024-03-25T21:15:47.217`)
-* [CVE-2024-29442](CVE-2024/CVE-2024-294xx/CVE-2024-29442.json) (`2024-03-25T22:37:19.797`)
+- [CVE-2023-52629](CVE-2023/CVE-2023-526xx/CVE-2023-52629.json) (`2024-03-29T10:15:09.327`)
+- [CVE-2024-2409](CVE-2024/CVE-2024-24xx/CVE-2024-2409.json) (`2024-03-29T09:15:07.733`)
+- [CVE-2024-2411](CVE-2024/CVE-2024-24xx/CVE-2024-2411.json) (`2024-03-29T09:15:07.943`)
+- [CVE-2024-3061](CVE-2024/CVE-2024-30xx/CVE-2024-3061.json) (`2024-03-29T10:15:09.403`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `1`
 
-* [CVE-2024-0690](CVE-2024/CVE-2024-06xx/CVE-2024-0690.json) (`2024-03-25T22:37:19.257`)
+- [CVE-2022-47937](CVE-2022/CVE-2022-479xx/CVE-2022-47937.json) (`2024-03-29T10:15:07.963`)
 
 
 ## Download and Usage
@@ -93,7 +90,6 @@ For decompression execute:
 xz -d -k <feed>.json.xz
 ```
 
-
 #### Automation using Release Data Feed Packages
 
 You can fetch the latest releases for each package with the following static link layout:
@@ -108,8 +104,6 @@ Example:
 wget https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CVE-2023.json.xz
 xz -d -k CVE-2023.json.xz
 ```
-
-
 
 ### 2) Clone the Repository (with Git History)
 
@@ -163,7 +157,6 @@ xzSize:100                                                              # size o
 sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 # sha256 hexdigest of uncompressed feed
 ```
 
-
 ### 3) Clone the Repository (without Git History)
 
 Don't need the history? Then create a shallow copy:
@@ -180,10 +173,10 @@ However, we from [Fraunhofer FKIE - Cyber Analysis and Defense](https://www.fkie
 
 The legacy NVD Data Feeds provided a convenient way to quickly obtain a complete, file-based offline database snapshot; just download the `CVE-<YEAR>.tar.gz`, decompress it, and use it as you please, e.g.:
 
-* Put the JSON feed into a document-based database and quickly leverage upon that data in your software project, ...
-* Parse and analyze it using your favorite programming language, ...
-* Put it on a USB stick and transfer it to a system without internet access, or ...
-* Query the file using `jq`!
+- Put the JSON feed into a document-based database and quickly leverage upon that data in your software project, ...
+- Parse and analyze it using your favorite programming language, ...
+- Put it on a USB stick and transfer it to a system without internet access, or ...
+- Query the file using `jq`!
 
 Unfortunately, the new NVD API 2.0 adds complexity to this process.
 We want to preserve ease of use by reconstructing these data sources.
