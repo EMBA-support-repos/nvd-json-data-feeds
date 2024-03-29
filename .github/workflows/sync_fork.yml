@@ -7,7 +7,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write-all
     steps:
       - run: gh repo sync $REPOSITORY -b $BRANCH_NAME
         env:
