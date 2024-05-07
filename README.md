@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-05-05T23:55:30.245075+00:00
+2024-05-06T23:55:20.194436+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-05-05T23:15:30.673000+00:00
+2024-05-06T23:15:06.527000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,32 +27,31 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-05-05T00:00:20.255542+00:00
+2024-05-06T00:00:20.275707+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-248635
+248794
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `2`
 
-- [CVE-2024-34519](CVE-2024/CVE-2024-345xx/CVE-2024-34519.json) (`2024-05-05T22:15:07.563`)
-- [CVE-2024-4502](CVE-2024/CVE-2024-45xx/CVE-2024-4502.json) (`2024-05-05T22:15:07.623`)
-- [CVE-2024-4503](CVE-2024/CVE-2024-45xx/CVE-2024-4503.json) (`2024-05-05T22:15:07.927`)
-- [CVE-2024-4504](CVE-2024/CVE-2024-45xx/CVE-2024-4504.json) (`2024-05-05T23:15:30.083`)
-- [CVE-2024-4505](CVE-2024/CVE-2024-45xx/CVE-2024-4505.json) (`2024-05-05T23:15:30.377`)
-- [CVE-2024-4506](CVE-2024/CVE-2024-45xx/CVE-2024-4506.json) (`2024-05-05T23:15:30.673`)
+- [CVE-2024-29941](CVE-2024/CVE-2024-299xx/CVE-2024-29941.json) (`2024-05-06T23:15:06.527`)
+- [CVE-2024-30973](CVE-2024/CVE-2024-309xx/CVE-2024-30973.json) (`2024-05-06T22:15:08.687`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `4`
 
-- [CVE-2023-52723](CVE-2023/CVE-2023-527xx/CVE-2023-52723.json) (`2024-05-05T22:15:07.487`)
+- [CVE-2021-33235](CVE-2021/CVE-2021-332xx/CVE-2021-33235.json) (`2024-05-06T22:15:08.107`)
+- [CVE-2021-33236](CVE-2021/CVE-2021-332xx/CVE-2021-33236.json) (`2024-05-06T22:15:08.323`)
+- [CVE-2022-35604](CVE-2022/CVE-2022-356xx/CVE-2022-35604.json) (`2024-05-06T22:15:08.420`)
+- [CVE-2022-39196](CVE-2022/CVE-2022-391xx/CVE-2022-39196.json) (`2024-05-06T22:15:08.537`)
 
 
 ## Download and Usage
