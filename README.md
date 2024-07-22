@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-07-20T23:55:18.555637+00:00
+2024-07-21T23:55:18.051366+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-07-20T22:15:10.190000+00:00
+2024-07-21T23:15:02.880000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,20 +27,32 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-07-20T00:00:08.659552+00:00
+2024-07-21T00:00:08.632425+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-257604
+257681
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `13`
 
-- [CVE-2024-6932](CVE-2024/CVE-2024-69xx/CVE-2024-6932.json) (`2024-07-20T22:15:10.190`)
+- [CVE-2024-37446](CVE-2024/CVE-2024-374xx/CVE-2024-37446.json) (`2024-07-21T23:15:02.143`)
+- [CVE-2024-37447](CVE-2024/CVE-2024-374xx/CVE-2024-37447.json) (`2024-07-21T23:15:02.390`)
+- [CVE-2024-37449](CVE-2024/CVE-2024-374xx/CVE-2024-37449.json) (`2024-07-21T23:15:02.620`)
+- [CVE-2024-37457](CVE-2024/CVE-2024-374xx/CVE-2024-37457.json) (`2024-07-21T23:15:02.880`)
+- [CVE-2024-37459](CVE-2024/CVE-2024-374xx/CVE-2024-37459.json) (`2024-07-21T22:15:02.427`)
+- [CVE-2024-37460](CVE-2024/CVE-2024-374xx/CVE-2024-37460.json) (`2024-07-21T22:15:02.690`)
+- [CVE-2024-37461](CVE-2024/CVE-2024-374xx/CVE-2024-37461.json) (`2024-07-21T22:15:02.927`)
+- [CVE-2024-37465](CVE-2024/CVE-2024-374xx/CVE-2024-37465.json) (`2024-07-21T22:15:03.173`)
+- [CVE-2024-37466](CVE-2024/CVE-2024-374xx/CVE-2024-37466.json) (`2024-07-21T22:15:03.407`)
+- [CVE-2024-37480](CVE-2024/CVE-2024-374xx/CVE-2024-37480.json) (`2024-07-21T22:15:03.647`)
+- [CVE-2024-37485](CVE-2024/CVE-2024-374xx/CVE-2024-37485.json) (`2024-07-21T22:15:03.880`)
+- [CVE-2024-38781](CVE-2024/CVE-2024-387xx/CVE-2024-38781.json) (`2024-07-21T22:15:04.180`)
+- [CVE-2024-38782](CVE-2024/CVE-2024-387xx/CVE-2024-38782.json) (`2024-07-21T22:15:04.423`)
 
 
 ### CVEs modified in the last Commit
