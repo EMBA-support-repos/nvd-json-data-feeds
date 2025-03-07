@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-03-06T00:55:19.767057+00:00
+2025-03-07T00:55:19.626318+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-03-05T23:15:14.297000+00:00
+2025-03-07T00:15:35.243000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,35 +27,31 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-03-05T01:00:04.361326+00:00
+2025-03-06T01:00:04.352249+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-284264
+284406
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `4`
+Recently added CVEs: `5`
 
-- [CVE-2025-27622](CVE-2025/CVE-2025-276xx/CVE-2025-27622.json) (`2025-03-05T23:15:13.990`)
-- [CVE-2025-27623](CVE-2025/CVE-2025-276xx/CVE-2025-27623.json) (`2025-03-05T23:15:14.097`)
-- [CVE-2025-27624](CVE-2025/CVE-2025-276xx/CVE-2025-27624.json) (`2025-03-05T23:15:14.197`)
-- [CVE-2025-27625](CVE-2025/CVE-2025-276xx/CVE-2025-27625.json) (`2025-03-05T23:15:14.297`)
+- [CVE-2025-1121](CVE-2025/CVE-2025-11xx/CVE-2025-1121.json) (`2025-03-07T00:15:34.360`)
+- [CVE-2025-2047](CVE-2025/CVE-2025-20xx/CVE-2025-2047.json) (`2025-03-06T23:15:12.343`)
+- [CVE-2025-2049](CVE-2025/CVE-2025-20xx/CVE-2025-2049.json) (`2025-03-06T23:15:12.523`)
+- [CVE-2025-2050](CVE-2025/CVE-2025-20xx/CVE-2025-2050.json) (`2025-03-07T00:15:35.243`)
+- [CVE-2025-27598](CVE-2025/CVE-2025-275xx/CVE-2025-27598.json) (`2025-03-06T23:15:12.183`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `6`
+Recently modified CVEs: `1`
 
-- [CVE-2019-20208](CVE-2019/CVE-2019-202xx/CVE-2019-20208.json) (`2025-03-05T23:15:12.837`)
-- [CVE-2020-24829](CVE-2020/CVE-2020-248xx/CVE-2020-24829.json) (`2025-03-05T23:15:13.040`)
-- [CVE-2021-30014](CVE-2021/CVE-2021-300xx/CVE-2021-30014.json) (`2025-03-05T23:15:13.217`)
-- [CVE-2021-30022](CVE-2021/CVE-2021-300xx/CVE-2021-30022.json) (`2025-03-05T23:15:13.390`)
-- [CVE-2021-40574](CVE-2021/CVE-2021-405xx/CVE-2021-40574.json) (`2025-03-05T23:15:13.557`)
-- [CVE-2024-9355](CVE-2024/CVE-2024-93xx/CVE-2024-9355.json) (`2025-03-05T23:15:13.770`)
+- [CVE-2024-57972](CVE-2024/CVE-2024-579xx/CVE-2024-57972.json) (`2025-03-06T23:15:11.993`)
 
 
 ## Download and Usage
