@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-03-25T00:55:20.405661+00:00
+2025-03-26T00:55:19.943911+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-03-25T00:15:15.693000+00:00
+2025-03-26T00:15:13.593000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,30 +33,24 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-286428
+286568
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `10`
+Recently added CVEs: `5`
 
-- [CVE-2025-1097](CVE-2025/CVE-2025-10xx/CVE-2025-1097.json) (`2025-03-25T00:15:13.590`)
-- [CVE-2025-1098](CVE-2025/CVE-2025-10xx/CVE-2025-1098.json) (`2025-03-25T00:15:14.613`)
-- [CVE-2025-1974](CVE-2025/CVE-2025-19xx/CVE-2025-1974.json) (`2025-03-25T00:15:14.753`)
-- [CVE-2025-24513](CVE-2025/CVE-2025-245xx/CVE-2025-24513.json) (`2025-03-25T00:15:14.900`)
-- [CVE-2025-24514](CVE-2025/CVE-2025-245xx/CVE-2025-24514.json) (`2025-03-25T00:15:15.047`)
-- [CVE-2025-2715](CVE-2025/CVE-2025-27xx/CVE-2025-2715.json) (`2025-03-24T23:15:13.440`)
-- [CVE-2025-2716](CVE-2025/CVE-2025-27xx/CVE-2025-2716.json) (`2025-03-24T23:15:13.610`)
-- [CVE-2025-2717](CVE-2025/CVE-2025-27xx/CVE-2025-2717.json) (`2025-03-25T00:15:15.290`)
-- [CVE-2025-2720](CVE-2025/CVE-2025-27xx/CVE-2025-2720.json) (`2025-03-25T00:15:15.500`)
-- [CVE-2025-2721](CVE-2025/CVE-2025-27xx/CVE-2025-2721.json) (`2025-03-25T00:15:15.693`)
+- [CVE-2024-47516](CVE-2024/CVE-2024-475xx/CVE-2024-47516.json) (`2025-03-26T00:15:13.270`)
+- [CVE-2025-2276](CVE-2025/CVE-2025-22xx/CVE-2025-2276.json) (`2025-03-26T00:15:13.440`)
+- [CVE-2025-2302](CVE-2025/CVE-2025-23xx/CVE-2025-2302.json) (`2025-03-26T00:15:13.593`)
+- [CVE-2025-30219](CVE-2025/CVE-2025-302xx/CVE-2025-30219.json) (`2025-03-25T23:15:36.560`)
+- [CVE-2025-30222](CVE-2025/CVE-2025-302xx/CVE-2025-30222.json) (`2025-03-25T23:15:36.707`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-- [CVE-2025-26512](CVE-2025/CVE-2025-265xx/CVE-2025-26512.json) (`2025-03-25T00:15:15.183`)
 
 
 ## Download and Usage
