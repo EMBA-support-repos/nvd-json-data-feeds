@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-03-26T00:55:19.943911+00:00
+2025-03-27T00:55:19.297249+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-03-26T00:15:13.593000+00:00
+2025-03-27T00:51:56.443000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,30 +27,33 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-03-24T01:00:04.467811+00:00
+2025-03-26T01:00:04.406672+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-286568
+286738
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `5`
+Recently added CVEs: `2`
 
-- [CVE-2024-47516](CVE-2024/CVE-2024-475xx/CVE-2024-47516.json) (`2025-03-26T00:15:13.270`)
-- [CVE-2025-2276](CVE-2025/CVE-2025-22xx/CVE-2025-2276.json) (`2025-03-26T00:15:13.440`)
-- [CVE-2025-2302](CVE-2025/CVE-2025-23xx/CVE-2025-2302.json) (`2025-03-26T00:15:13.593`)
-- [CVE-2025-30219](CVE-2025/CVE-2025-302xx/CVE-2025-30219.json) (`2025-03-25T23:15:36.560`)
-- [CVE-2025-30222](CVE-2025/CVE-2025-302xx/CVE-2025-30222.json) (`2025-03-25T23:15:36.707`)
+- [CVE-2025-20230](CVE-2025/CVE-2025-202xx/CVE-2025-20230.json) (`2025-03-26T23:15:18.140`)
+- [CVE-2025-2496](CVE-2025/CVE-2025-24xx/CVE-2025-2496.json) (`2025-03-26T23:15:18.717`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `6`
 
+- [CVE-2024-13739](CVE-2024/CVE-2024-137xx/CVE-2024-13739.json) (`2025-03-27T00:51:56.443`)
+- [CVE-2025-0723](CVE-2025/CVE-2025-07xx/CVE-2025-0723.json) (`2025-03-27T00:47:32.027`)
+- [CVE-2025-0724](CVE-2025/CVE-2025-07xx/CVE-2025-0724.json) (`2025-03-27T00:43:04.040`)
+- [CVE-2025-1408](CVE-2025/CVE-2025-14xx/CVE-2025-1408.json) (`2025-03-27T00:38:34.650`)
+- [CVE-2025-1488](CVE-2025/CVE-2025-14xx/CVE-2025-1488.json) (`2025-03-27T00:25:37.117`)
+- [CVE-2025-2625](CVE-2025/CVE-2025-26xx/CVE-2025-2625.json) (`2025-03-27T00:36:50.850`)
 
 
 ## Download and Usage
