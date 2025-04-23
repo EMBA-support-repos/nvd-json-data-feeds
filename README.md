@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-04-21T23:55:19.806773+00:00
+2025-04-22T23:55:19.537736+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-04-21T23:15:15.383000+00:00
+2025-04-22T23:15:43.220000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,35 +27,31 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-04-21T00:00:10.085823+00:00
+2025-04-22T00:00:04.377325+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-291005
+291121
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `4`
+Recently added CVEs: `3`
 
-- [CVE-2025-3843](CVE-2025/CVE-2025-38xx/CVE-2025-3843.json) (`2025-04-21T22:15:15.337`)
-- [CVE-2025-3845](CVE-2025/CVE-2025-38xx/CVE-2025-3845.json) (`2025-04-21T22:15:15.603`)
-- [CVE-2025-3846](CVE-2025/CVE-2025-38xx/CVE-2025-3846.json) (`2025-04-21T23:15:14.397`)
-- [CVE-2025-3847](CVE-2025/CVE-2025-38xx/CVE-2025-3847.json) (`2025-04-21T23:15:15.383`)
+- [CVE-2025-27087](CVE-2025/CVE-2025-270xx/CVE-2025-27087.json) (`2025-04-22T22:15:17.060`)
+- [CVE-2025-3441](CVE-2025/CVE-2025-34xx/CVE-2025-3441.json) (`2025-04-22T23:15:43.220`)
+- [CVE-2025-37088](CVE-2025/CVE-2025-370xx/CVE-2025-37088.json) (`2025-04-22T22:15:17.450`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `6`
+Recently modified CVEs: `3`
 
-- [CVE-2023-41076](CVE-2023/CVE-2023-410xx/CVE-2023-41076.json) (`2025-04-21T22:04:34.893`)
-- [CVE-2023-42961](CVE-2023/CVE-2023-429xx/CVE-2023-42961.json) (`2025-04-21T22:04:25.583`)
-- [CVE-2023-42973](CVE-2023/CVE-2023-429xx/CVE-2023-42973.json) (`2025-04-21T22:04:49.723`)
-- [CVE-2023-42981](CVE-2023/CVE-2023-429xx/CVE-2023-42981.json) (`2025-04-21T22:04:05.630`)
-- [CVE-2023-42982](CVE-2023/CVE-2023-429xx/CVE-2023-42982.json) (`2025-04-21T22:03:57.180`)
-- [CVE-2023-42983](CVE-2023/CVE-2023-429xx/CVE-2023-42983.json) (`2025-04-21T22:03:33.223`)
+- [CVE-2025-24447](CVE-2025/CVE-2025-244xx/CVE-2025-24447.json) (`2025-04-22T22:15:16.040`)
+- [CVE-2025-30282](CVE-2025/CVE-2025-302xx/CVE-2025-30282.json) (`2025-04-22T22:15:17.153`)
+- [CVE-2025-30294](CVE-2025/CVE-2025-302xx/CVE-2025-30294.json) (`2025-04-22T22:15:17.273`)
 
 
 ## Download and Usage
@@ -198,3 +194,7 @@ We want to preserve ease of use by reconstructing these data sources.
 ## Non-Endorsement Clause
 
 This project uses and redistributes data from the NVD API but is not endorsed or certified by the NVD.
+
+## Bot Source Code
+
+The bot's source code is available at [fkie-cad/nvd\_json\_bot](https://github.com/fkie-cad/nvd_json_bot).
