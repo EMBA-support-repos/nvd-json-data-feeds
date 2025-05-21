@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-05-19T23:55:19.297089+00:00
+2025-05-20T23:55:19.771224+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-05-19T22:15:20.520000+00:00
+2025-05-20T23:15:20.133000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,28 +27,35 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-05-19T00:00:04.310085+00:00
+2025-05-20T00:00:04.334336+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-294806
+294984
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `8`
 
-- [CVE-2025-1308](CVE-2025/CVE-2025-13xx/CVE-2025-1308.json) (`2025-05-19T22:15:20.520`)
+- [CVE-2025-4436](CVE-2025/CVE-2025-44xx/CVE-2025-4436.json) (`2025-05-20T23:15:19.440`)
+- [CVE-2025-5001](CVE-2025/CVE-2025-50xx/CVE-2025-5001.json) (`2025-05-20T22:15:19.043`)
+- [CVE-2025-5002](CVE-2025/CVE-2025-50xx/CVE-2025-5002.json) (`2025-05-20T22:15:19.410`)
+- [CVE-2025-5003](CVE-2025/CVE-2025-50xx/CVE-2025-5003.json) (`2025-05-20T22:15:19.600`)
+- [CVE-2025-5004](CVE-2025/CVE-2025-50xx/CVE-2025-5004.json) (`2025-05-20T23:15:19.530`)
+- [CVE-2025-5006](CVE-2025/CVE-2025-50xx/CVE-2025-5006.json) (`2025-05-20T23:15:19.750`)
+- [CVE-2025-5007](CVE-2025/CVE-2025-50xx/CVE-2025-5007.json) (`2025-05-20T23:15:19.937`)
+- [CVE-2025-5008](CVE-2025/CVE-2025-50xx/CVE-2025-5008.json) (`2025-05-20T23:15:20.133`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `2`
 
-- [CVE-2023-38951](CVE-2023/CVE-2023-389xx/CVE-2023-38951.json) (`2025-05-19T22:15:19.547`)
-- [CVE-2023-6783](CVE-2023/CVE-2023-67xx/CVE-2023-6783.json) (`2025-05-19T22:15:20.297`)
+- [CVE-2024-12133](CVE-2024/CVE-2024-121xx/CVE-2024-12133.json) (`2025-05-20T23:15:18.927`)
+- [CVE-2025-23122](CVE-2025/CVE-2025-231xx/CVE-2025-23122.json) (`2025-05-20T22:15:18.907`)
 
 
 ## Download and Usage
