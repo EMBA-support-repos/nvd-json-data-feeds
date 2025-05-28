@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-05-26T23:55:18.676000+00:00
+2025-05-27T23:55:19.472504+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-05-26T23:15:20.937000+00:00
+2025-05-27T23:15:21.400000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,25 +27,27 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-05-26T00:00:04.329468+00:00
+2025-05-27T00:00:04.320074+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-295542
+295654
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `8`
 
-- [CVE-2025-5206](CVE-2025/CVE-2025-52xx/CVE-2025-5206.json) (`2025-05-26T22:15:19.480`)
-- [CVE-2025-5207](CVE-2025/CVE-2025-52xx/CVE-2025-5207.json) (`2025-05-26T22:15:20.363`)
-- [CVE-2025-5208](CVE-2025/CVE-2025-52xx/CVE-2025-5208.json) (`2025-05-26T23:15:19.700`)
-- [CVE-2025-5210](CVE-2025/CVE-2025-52xx/CVE-2025-5210.json) (`2025-05-26T23:15:20.543`)
-- [CVE-2025-5211](CVE-2025/CVE-2025-52xx/CVE-2025-5211.json) (`2025-05-26T23:15:20.737`)
-- [CVE-2025-5212](CVE-2025/CVE-2025-52xx/CVE-2025-5212.json) (`2025-05-26T23:15:20.937`)
+- [CVE-2022-21150](CVE-2022/CVE-2022-211xx/CVE-2022-21150.json) (`2025-05-27T23:15:19.840`)
+- [CVE-2022-21200](CVE-2022/CVE-2022-212xx/CVE-2022-21200.json) (`2025-05-27T23:15:20.490`)
+- [CVE-2024-11185](CVE-2024/CVE-2024-111xx/CVE-2024-11185.json) (`2025-05-27T23:15:20.580`)
+- [CVE-2024-45094](CVE-2024/CVE-2024-450xx/CVE-2024-45094.json) (`2025-05-27T23:15:21.093`)
+- [CVE-2025-2796](CVE-2025/CVE-2025-27xx/CVE-2025-2796.json) (`2025-05-27T23:15:21.283`)
+- [CVE-2025-2826](CVE-2025/CVE-2025-28xx/CVE-2025-2826.json) (`2025-05-27T23:15:21.400`)
+- [CVE-2025-32440](CVE-2025/CVE-2025-324xx/CVE-2025-32440.json) (`2025-05-27T22:15:21.980`)
+- [CVE-2025-40911](CVE-2025/CVE-2025-409xx/CVE-2025-40911.json) (`2025-05-27T22:15:22.337`)
 
 
 ### CVEs modified in the last Commit
