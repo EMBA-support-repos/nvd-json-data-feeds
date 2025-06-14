@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-06-12T23:55:18.942650+00:00
+2025-06-13T23:55:19.149234+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-06-12T23:54:58.770000+00:00
+2025-06-13T22:15:19.500000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,36 +27,28 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-06-12T00:00:04.304975+00:00
+2025-06-13T00:00:04.319101+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-297837
+297924
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `3`
+Recently added CVEs: `2`
 
-- [CVE-2025-41233](CVE-2025/CVE-2025-412xx/CVE-2025-41233.json) (`2025-06-12T22:15:20.560`)
-- [CVE-2025-41234](CVE-2025/CVE-2025-412xx/CVE-2025-41234.json) (`2025-06-12T22:15:21.090`)
-- [CVE-2025-4233](CVE-2025/CVE-2025-42xx/CVE-2025-4233.json) (`2025-06-12T23:15:21.983`)
+- [CVE-2025-24919](CVE-2025/CVE-2025-249xx/CVE-2025-24919.json) (`2025-06-13T22:15:18.320`)
+- [CVE-2025-25215](CVE-2025/CVE-2025-252xx/CVE-2025-25215.json) (`2025-06-13T22:15:19.337`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `8`
+Recently modified CVEs: `1`
 
-- [CVE-2024-2260](CVE-2024/CVE-2024-22xx/CVE-2024-2260.json) (`2025-06-12T23:48:17.817`)
-- [CVE-2024-29460](CVE-2024/CVE-2024-294xx/CVE-2024-29460.json) (`2025-06-12T23:54:58.770`)
-- [CVE-2024-2996](CVE-2024/CVE-2024-29xx/CVE-2024-2996.json) (`2025-06-12T23:33:11.550`)
-- [CVE-2024-2997](CVE-2024/CVE-2024-29xx/CVE-2024-2997.json) (`2025-06-12T23:28:31.310`)
-- [CVE-2024-2998](CVE-2024/CVE-2024-29xx/CVE-2024-2998.json) (`2025-06-12T23:24:56.703`)
-- [CVE-2024-3013](CVE-2024/CVE-2024-30xx/CVE-2024-3013.json) (`2025-06-12T23:23:13.000`)
-- [CVE-2024-31759](CVE-2024/CVE-2024-317xx/CVE-2024-31759.json) (`2025-06-12T23:43:02.223`)
-- [CVE-2025-47977](CVE-2025/CVE-2025-479xx/CVE-2025-47977.json) (`2025-06-12T23:15:21.750`)
+- [CVE-2025-6083](CVE-2025/CVE-2025-60xx/CVE-2025-6083.json) (`2025-06-13T22:15:19.500`)
 
 
 ## Download and Usage
