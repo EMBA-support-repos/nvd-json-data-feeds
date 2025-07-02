@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-06-30T23:55:12.029609+00:00
+2025-07-01T23:55:11.859937+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-06-30T23:15:22.103000+00:00
+2025-07-01T23:15:30.587000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,37 +27,26 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-06-30T14:32:06.616569+00:00
+2025-07-01T00:00:02.122523+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-299922
+300013
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `4`
+Recently added CVEs: `1`
 
-- [CVE-2025-6554](CVE-2025/CVE-2025-65xx/CVE-2025-6554.json) (`2025-06-30T22:15:29.873`)
-- [CVE-2025-6930](CVE-2025/CVE-2025-69xx/CVE-2025-6930.json) (`2025-06-30T22:15:30.010`)
-- [CVE-2025-6931](CVE-2025/CVE-2025-69xx/CVE-2025-6931.json) (`2025-06-30T23:15:21.863`)
-- [CVE-2025-6932](CVE-2025/CVE-2025-69xx/CVE-2025-6932.json) (`2025-06-30T23:15:22.103`)
+- [CVE-2025-49741](CVE-2025/CVE-2025-497xx/CVE-2025-49741.json) (`2025-07-01T23:15:30.587`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `8`
+Recently modified CVEs: `0`
 
-- [CVE-2012-6435](CVE-2012/CVE-2012-64xx/CVE-2012-6435.json) (`2025-06-30T22:15:27.780`)
-- [CVE-2012-6436](CVE-2012/CVE-2012-64xx/CVE-2012-6436.json) (`2025-06-30T22:15:28.573`)
-- [CVE-2012-6437](CVE-2012/CVE-2012-64xx/CVE-2012-6437.json) (`2025-06-30T22:15:28.747`)
-- [CVE-2012-6438](CVE-2012/CVE-2012-64xx/CVE-2012-6438.json) (`2025-06-30T22:15:28.920`)
-- [CVE-2012-6439](CVE-2012/CVE-2012-64xx/CVE-2012-6439.json) (`2025-06-30T22:15:29.083`)
-- [CVE-2012-6440](CVE-2012/CVE-2012-64xx/CVE-2012-6440.json) (`2025-06-30T22:15:29.253`)
-- [CVE-2012-6441](CVE-2012/CVE-2012-64xx/CVE-2012-6441.json) (`2025-06-30T22:15:29.420`)
-- [CVE-2012-6442](CVE-2012/CVE-2012-64xx/CVE-2012-6442.json) (`2025-06-30T22:15:29.587`)
 
 
 ## Download and Usage
