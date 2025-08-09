@@ -9,7 +9,9 @@ jobs:
     permissions:
           contents: write
     steps:
-      - run: gh repo sync $REPOSITORY -b $BRANCH_NAME
+      - run: |
+            gh auth refresh -s workflow
+            gh repo sync $REPOSITORY -b $BRANCH_NAME
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ github.repository }}
