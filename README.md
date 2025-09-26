@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-09-24T23:55:11.253274+00:00
+2025-09-25T23:55:11.409982+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-09-24T22:15:35.597000+00:00
+2025-09-25T23:15:54.773000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,31 +27,32 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-09-24T00:00:02.134853+00:00
+2025-09-25T00:00:02.137802+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-311492
+311599
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `2`
+Recently added CVEs: `7`
 
-- [CVE-2025-10894](CVE-2025/CVE-2025-108xx/CVE-2025-10894.json) (`2025-09-24T22:15:35.423`)
-- [CVE-2025-54520](CVE-2025/CVE-2025-545xx/CVE-2025-54520.json) (`2025-09-24T22:15:35.597`)
+- [CVE-2025-10974](CVE-2025/CVE-2025-109xx/CVE-2025-10974.json) (`2025-09-25T22:15:33.530`)
+- [CVE-2025-10975](CVE-2025/CVE-2025-109xx/CVE-2025-10975.json) (`2025-09-25T22:15:34.503`)
+- [CVE-2025-10976](CVE-2025/CVE-2025-109xx/CVE-2025-10976.json) (`2025-09-25T22:15:34.693`)
+- [CVE-2025-10977](CVE-2025/CVE-2025-109xx/CVE-2025-10977.json) (`2025-09-25T23:15:47.630`)
+- [CVE-2025-10978](CVE-2025/CVE-2025-109xx/CVE-2025-10978.json) (`2025-09-25T23:15:48.680`)
+- [CVE-2025-10979](CVE-2025/CVE-2025-109xx/CVE-2025-10979.json) (`2025-09-25T23:15:48.870`)
+- [CVE-2025-56769](CVE-2025/CVE-2025-567xx/CVE-2025-56769.json) (`2025-09-25T23:15:54.773`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `4`
+Recently modified CVEs: `0`
 
-- [CVE-2014-0774](CVE-2014/CVE-2014-07xx/CVE-2014-0774.json) (`2025-09-24T22:15:34.533`)
-- [CVE-2014-0777](CVE-2014/CVE-2014-07xx/CVE-2014-0777.json) (`2025-09-24T22:15:34.803`)
-- [CVE-2014-0778](CVE-2014/CVE-2014-07xx/CVE-2014-0778.json) (`2025-09-24T22:15:34.967`)
-- [CVE-2014-0779](CVE-2014/CVE-2014-07xx/CVE-2014-0779.json) (`2025-09-24T22:15:35.147`)
 
 
 ## Download and Usage
