@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-02-08T17:00:10.874719+00:00
+2026-02-08T19:00:11.627683+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-02-08T16:15:51.557000+00:00
+2026-02-08T18:15:48.490000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-331637
+331644
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `7`
 
-- [CVE-2026-2156](CVE-2026/CVE-2026-21xx/CVE-2026-2156.json) (`2026-02-08T15:15:51.307`)
-- [CVE-2026-2157](CVE-2026/CVE-2026-21xx/CVE-2026-2157.json) (`2026-02-08T15:15:52.310`)
-- [CVE-2026-2158](CVE-2026/CVE-2026-21xx/CVE-2026-2158.json) (`2026-02-08T15:15:52.490`)
-- [CVE-2026-2159](CVE-2026/CVE-2026-21xx/CVE-2026-2159.json) (`2026-02-08T16:15:50.207`)
-- [CVE-2026-2160](CVE-2026/CVE-2026-21xx/CVE-2026-2160.json) (`2026-02-08T16:15:51.190`)
-- [CVE-2026-2161](CVE-2026/CVE-2026-21xx/CVE-2026-2161.json) (`2026-02-08T16:15:51.377`)
-- [CVE-2026-2162](CVE-2026/CVE-2026-21xx/CVE-2026-2162.json) (`2026-02-08T16:15:51.557`)
+- [CVE-2026-2163](CVE-2026/CVE-2026-21xx/CVE-2026-2163.json) (`2026-02-08T17:15:58.210`)
+- [CVE-2026-2164](CVE-2026/CVE-2026-21xx/CVE-2026-2164.json) (`2026-02-08T17:15:58.410`)
+- [CVE-2026-2165](CVE-2026/CVE-2026-21xx/CVE-2026-2165.json) (`2026-02-08T17:15:58.593`)
+- [CVE-2026-2166](CVE-2026/CVE-2026-21xx/CVE-2026-2166.json) (`2026-02-08T17:15:58.787`)
+- [CVE-2026-2167](CVE-2026/CVE-2026-21xx/CVE-2026-2167.json) (`2026-02-08T17:15:58.970`)
+- [CVE-2026-2168](CVE-2026/CVE-2026-21xx/CVE-2026-2168.json) (`2026-02-08T18:15:48.290`)
+- [CVE-2026-2169](CVE-2026/CVE-2026-21xx/CVE-2026-2169.json) (`2026-02-08T18:15:48.490`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `1`
 
+- [CVE-2025-27234](CVE-2025/CVE-2025-272xx/CVE-2025-27234.json) (`2026-02-08T17:15:57.203`)
 
 
 ## Download and Usage
