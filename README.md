@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-02-11T00:55:10.924495+00:00
+2026-02-11T03:00:12.610617+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-02-11T00:16:51.847000+00:00
+2026-02-11T02:16:00.820000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,30 +27,35 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2026-02-10T01:00:02.136153+00:00
+2026-02-11T01:00:02.121363+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-332127
+332132
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `3`
+Recently added CVEs: `5`
 
-- [CVE-2026-25251](CVE-2026/CVE-2026-252xx/CVE-2026-25251.json) (`2026-02-10T23:16:16.080`)
-- [CVE-2026-25870](CVE-2026/CVE-2026-258xx/CVE-2026-25870.json) (`2026-02-10T23:16:16.287`)
-- [CVE-2026-25872](CVE-2026/CVE-2026-258xx/CVE-2026-25872.json) (`2026-02-10T23:16:16.473`)
+- [CVE-2025-13431](CVE-2025/CVE-2025-134xx/CVE-2025-13431.json) (`2026-02-11T02:15:57.667`)
+- [CVE-2025-14541](CVE-2025/CVE-2025-145xx/CVE-2025-14541.json) (`2026-02-11T02:15:57.887`)
+- [CVE-2025-15524](CVE-2025/CVE-2025-155xx/CVE-2025-15524.json) (`2026-02-11T02:15:58.057`)
+- [CVE-2026-1231](CVE-2026/CVE-2026-12xx/CVE-2026-1231.json) (`2026-02-11T02:15:58.297`)
+- [CVE-2026-1571](CVE-2026/CVE-2026-15xx/CVE-2026-1571.json) (`2026-02-11T01:15:56.453`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `5`
 
-- [CVE-2026-25857](CVE-2026/CVE-2026-258xx/CVE-2026-25857.json) (`2026-02-10T23:16:16.177`)
-- [CVE-2026-26007](CVE-2026/CVE-2026-260xx/CVE-2026-26007.json) (`2026-02-11T00:16:51.847`)
+- [CVE-2026-21510](CVE-2026/CVE-2026-215xx/CVE-2026-21510.json) (`2026-02-10T21:51:48.077`)
+- [CVE-2026-21517](CVE-2026/CVE-2026-215xx/CVE-2026-21517.json) (`2026-02-11T02:16:00.820`)
+- [CVE-2026-21519](CVE-2026/CVE-2026-215xx/CVE-2026-21519.json) (`2026-02-10T21:51:48.077`)
+- [CVE-2026-21525](CVE-2026/CVE-2026-215xx/CVE-2026-21525.json) (`2026-02-10T21:51:48.077`)
+- [CVE-2026-21533](CVE-2026/CVE-2026-215xx/CVE-2026-21533.json) (`2026-02-10T21:51:48.077`)
 
 
 ## Download and Usage
