@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-04-10T12:00:11.906216+00:00
+2026-04-17T06:00:36.980846+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-04-10T11:16:23.143000+00:00
+2026-04-17T05:16:19.430000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,33 +27,36 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2026-04-10T00:00:02.142834+00:00
+2026-04-17T00:00:05.583804+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-343804
+345009
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `11`
 
-- [CVE-2021-47960](CVE-2021/CVE-2021-479xx/CVE-2021-47960.json) (`2026-04-10T10:16:02.853`)
-- [CVE-2021-47961](CVE-2021/CVE-2021-479xx/CVE-2021-47961.json) (`2026-04-10T10:16:03.913`)
-- [CVE-2026-31412](CVE-2026/CVE-2026-314xx/CVE-2026-31412.json) (`2026-04-10T11:16:22.967`)
-- [CVE-2026-39304](CVE-2026/CVE-2026-393xx/CVE-2026-39304.json) (`2026-04-10T11:16:23.143`)
-- [CVE-2026-4162](CVE-2026/CVE-2026-41xx/CVE-2026-4162.json) (`2026-04-10T10:16:04.120`)
-- [CVE-2026-6057](CVE-2026/CVE-2026-60xx/CVE-2026-6057.json) (`2026-04-10T10:16:04.547`)
+- [CVE-2026-3330](CVE-2026/CVE-2026-33xx/CVE-2026-3330.json) (`2026-04-17T05:16:18.080`)
+- [CVE-2026-3605](CVE-2026/CVE-2026-36xx/CVE-2026-3605.json) (`2026-04-17T04:16:03.263`)
+- [CVE-2026-4525](CVE-2026/CVE-2026-45xx/CVE-2026-4525.json) (`2026-04-17T04:16:09.997`)
+- [CVE-2026-4666](CVE-2026/CVE-2026-46xx/CVE-2026-4666.json) (`2026-04-17T04:16:11.023`)
+- [CVE-2026-4853](CVE-2026/CVE-2026-48xx/CVE-2026-4853.json) (`2026-04-17T05:16:18.680`)
+- [CVE-2026-5052](CVE-2026/CVE-2026-50xx/CVE-2026-5052.json) (`2026-04-17T04:16:12.567`)
+- [CVE-2026-5234](CVE-2026/CVE-2026-52xx/CVE-2026-5234.json) (`2026-04-17T05:16:18.830`)
+- [CVE-2026-5427](CVE-2026/CVE-2026-54xx/CVE-2026-5427.json) (`2026-04-17T05:16:18.973`)
+- [CVE-2026-5502](CVE-2026/CVE-2026-55xx/CVE-2026-5502.json) (`2026-04-17T05:16:19.117`)
+- [CVE-2026-5807](CVE-2026/CVE-2026-58xx/CVE-2026-5807.json) (`2026-04-17T05:16:19.303`)
+- [CVE-2026-6080](CVE-2026/CVE-2026-60xx/CVE-2026-6080.json) (`2026-04-17T05:16:19.430`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `0`
 
-- [CVE-2025-66168](CVE-2025/CVE-2025-661xx/CVE-2025-66168.json) (`2026-04-10T11:16:21.590`)
-- [CVE-2026-6042](CVE-2026/CVE-2026-60xx/CVE-2026-6042.json) (`2026-04-10T10:16:04.277`)
 
 
 ## Download and Usage
@@ -193,10 +196,10 @@ The legacy NVD Data Feeds provided a convenient way to quickly obtain a complete
 Unfortunately, the new NVD API 2.0 adds complexity to this process.
 We want to preserve ease of use by reconstructing these data sources.
 
+## Bot Source Code
+
+The source code running this repo is available here: [`nvd_json_bot`](https://github.com/fkie-cad/nvd_json_bot).
+
 ## Non-Endorsement Clause
 
 This project uses and redistributes data from the NVD API but is not endorsed or certified by the NVD.
-
-## Bot Source Code
-
-The bot's source code is available at [fkie-cad/nvd\_json\_bot](https://github.com/fkie-cad/nvd_json_bot).
