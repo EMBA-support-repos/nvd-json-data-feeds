@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-04-26T14:00:45.366617+00:00
+2026-04-26T20:00:12.008414+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-04-26T13:16:01.813000+00:00
+2026-04-26T19:53:39.640000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-346640
+346642
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `7`
+Recently added CVEs: `2`
 
-- [CVE-2026-7034](CVE-2026/CVE-2026-70xx/CVE-2026-7034.json) (`2026-04-26T12:16:21.570`)
-- [CVE-2026-7035](CVE-2026/CVE-2026-70xx/CVE-2026-7035.json) (`2026-04-26T12:16:22.797`)
-- [CVE-2026-7036](CVE-2026/CVE-2026-70xx/CVE-2026-7036.json) (`2026-04-26T12:16:22.987`)
-- [CVE-2026-7037](CVE-2026/CVE-2026-70xx/CVE-2026-7037.json) (`2026-04-26T12:16:23.173`)
-- [CVE-2026-7038](CVE-2026/CVE-2026-70xx/CVE-2026-7038.json) (`2026-04-26T12:16:23.373`)
-- [CVE-2026-7039](CVE-2026/CVE-2026-70xx/CVE-2026-7039.json) (`2026-04-26T13:16:00.727`)
-- [CVE-2026-7041](CVE-2026/CVE-2026-70xx/CVE-2026-7041.json) (`2026-04-26T13:16:01.813`)
+- [CVE-2026-6785](CVE-2026/CVE-2026-67xx/CVE-2026-6785.json) (`2026-04-26T19:53:39.010`)
+- [CVE-2026-6786](CVE-2026/CVE-2026-67xx/CVE-2026-6786.json) (`2026-04-26T19:53:39.640`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `6`
 
+- [CVE-2025-1787](CVE-2025/CVE-2025-17xx/CVE-2025-1787.json) (`2026-04-26T18:49:05.717`)
+- [CVE-2025-1789](CVE-2025/CVE-2025-17xx/CVE-2025-1789.json) (`2026-04-26T18:49:06.543`)
+- [CVE-2025-1790](CVE-2025/CVE-2025-17xx/CVE-2025-1790.json) (`2026-04-26T18:49:06.673`)
+- [CVE-2025-26793](CVE-2025/CVE-2025-267xx/CVE-2025-26793.json) (`2026-04-26T18:56:26.460`)
+- [CVE-2025-35051](CVE-2025/CVE-2025-350xx/CVE-2025-35051.json) (`2026-04-26T19:04:18.887`)
+- [CVE-2025-64348](CVE-2025/CVE-2025-643xx/CVE-2025-64348.json) (`2026-04-26T19:26:45.093`)
 
 
 ## Download and Usage
